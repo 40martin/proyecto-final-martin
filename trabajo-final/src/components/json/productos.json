@@ -1,0 +1,37 @@
+[
+    {"idx":1, "titulo":"McPollo", "descripcion":"El autentico sabor del pollo", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kcXQzmQj/200/200/original?country=ar",
+    "precio":1000, "categoria":"pollo"},
+
+    {"idx":2, "titulo":"McCrispy Chicken Deluxe", "descripcion":"El mas rico y crujiente pollo crispy", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$ktXfGUzp/200/200/original?country=ar",
+    "precio":1500, "categoria":"pollo"},
+
+    {"idx":3, "titulo":"McCrispy Chicken Deluxe Spicy", "descripcion":"El mas rico y crujiente pollo crispy", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$krX81U77/200/200/original?country=ar",
+    "precio":2000, "categoria":"pollo"},
+
+    {"idx":4, "titulo":"McCrispy Chicken Cheddar & Bacon", "descripcion":"El más rico y crujiente pollo", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$krXR8JrT/200/200/original?country=ar",
+    "precio":2500, "categoria":"pollo"},
+
+    {"idx":5, "titulo":"McFlurry Oreo", "descripcion":"Un helado de vainilla", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kcX83hlT/200/200/original?country=ar",
+    "precio":3000, "categoria":"postre"},
+
+    {"idx":6, "titulo":"McFlurry Kit Kat", "descripcion":"crocante oblea de chocolate que todo el mundo conoce y ama", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kcXpFS9c/200/200/original?country=ar",
+    "precio":1900, "categoria":"postre"},
+
+    {"idx":7, "titulo":"Cono de Vainilla", "descripcion":"Un clásico cono que nunca pasa de moda", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$cono-de-vainilla.png/200/200/original?country=ar",
+    "precio":1000, "categoria":"postre"},
+
+    {"idx":8, "titulo":"Cono Combinado", "descripcion":"El helado para los que lo quieren todo", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$cono-combinado.png/200/200/original?country=ar",
+    "precio":1500, "categoria":"postre"},
+
+    {"idx":9, "titulo":"Sundae Crocantella", "descripcion":"Helado de vainilla, salsa caliente y recubierto con salsa", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kwXu3WNq/200/200/original?country=ar",
+    "precio":1600, "categoria":"postre"},
+
+    {"idx":10, "titulo":"Cono Relleno", "descripcion":"Helado de vainilla, dulce de leche o combinado", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kcXdf4dM/200/200/original?country=ar",
+    "precio":1200, "categoria":"postre"},
+
+    {"idx":11, "titulo":"Papas Grandes", "descripcion":"Calientes, crujientes y deliciosas, tus aliadas perfectas para cualquier comida", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kcXXQgnB/200/200/original?country=ar",
+    "precio":900, "categoria":"papas"},
+
+    {"idx":12, "titulo":"Papas Kids", "descripcion":"Nuestras clásicas papas fritas doradas y crocantes con la sal justa y en un porción adecuada para los niños.", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kcX3g9kK/200/200/original?country=ar",
+    "precio":500, "categoria":"papas"}
+]
